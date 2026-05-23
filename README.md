@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Sandeep Jayaprakash
 
@@ -20,9 +19,9 @@ or technique from data through to a working, governed system.
 **Flagship builds**
 
 - **[Campus RAG Assistant](https://github.com/sandeep-jay/campus-rag-assistant)** —
-  production-style enterprise RAG platform: multi-cloud provider registry
-  (AWS / Azure / mock), LangGraph orchestration, RAGAS evaluation, LangSmith
-  tracing, and full CI/CD.
+  production-style enterprise RAG platform: with pluggable multi-cloud LLM + RAG + Vector store provider registry supporting mixed deployments.
+  Providers include (AWS Bedrock + OpenSearch) / (Azure OpenAI + AISearch) / mock mode, LangGraph orchestration, RAGAS evaluation, LangSmith
+  tracing, and full CI/CD using Github Actions. Implemented using Next.js + FastAPI. 
   [Documentation →](https://sandeep-jay.github.io/campus-rag-assistant/)
 - **[Scribe IQ](https://github.com/sandeep-jay/scribe-iq)** —
   governed clinical-documentation AI: note-grounded RAG with enforced citations,
@@ -55,8 +54,9 @@ Contributor to the campus data and learning-platform ecosystem:
 
 
 **[Apereo Learning Analytics Initiative](https://github.com/Apereo-Learning-Analytics-Initiative)**
-Member and contributor to open-source learning analytics tooling adopted across
-universities in the US and UK.
+Analytics Liaison and Community Coordinator on Apereo Foundation Learning Analytics Initiative. Contributor to the campus data and learning-platform ecosystem:
+
+- **[LearningAnalyticsProcessor](https://github.com/Apereo-Learning-Analytics-Initiative/LearningAnalyticsProcessor.git)** - An open source, Java-based analytics workflow manager to run Pentho-based data integration + ML pipelines. First automation of OAAI research.
 - 
 ---
 
@@ -67,11 +67,16 @@ universities in the US and UK.
 
 ### Background
 
-12+ years at UC Berkeley building governed data and AI platforms — the
-foundational RTL Data Lake, the data systems behind the award-winning Berkeley
-Online Advising and the campus's governed GenAI work. Earlier, led the
-Gates Foundation-funded Open Academic Analytics Initiative. Five peer-reviewed
-publications in learning analytics.
+- 14+ years of experience in Higher Education
+- ~10 years at UC Berkeley, building governed cloud-native data and AI/ML platforms — the foundational RTL Data Lake, the data systems behind the award-winning Berkeley Online Advising
+- Lead Architect on Enterprise Data Lakes & Lakehouse and built Data mesh Architectures to support domain ownership and seamless connectivity across campus. 
+- Developed a high-throughput multi-tenant streaming platform processing an average of ~5M events/day.
+- Data Science and ML/NLP work in support of Research enablement - Built MLOps pipeline supporting reproducible research.
+- Now working on the campus's governed GenAI work, building production-style Knowledge assistants grounded in institutional data and Responsible AI audit and provenance trails
+  
+- Earlier, while at Marist University, I led the Gates Foundation-funded Open Academic Analytics Initiative research, working with principal investigators to build open-source academic early alert risk models.
+- Scaled research to multi-institution production deployments.
+- Ten peer-reviewed publications in Learning Analytics and Educational Data Mining.
 
 ### Connect
 
