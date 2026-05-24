@@ -67,7 +67,7 @@ Analytics Liaison and Community Coordinator on Apereo Foundation Learning Analyt
 
 ### Background
 
-- 14+ years of experience in Higher Education
+- 15+ years of experience in Higher Education
 - ~10 years at UC Berkeley, building governed cloud-native data and AI/ML platforms — the foundational RTL Data Lake, the data systems behind the award-winning Berkeley Online Advising
 - Lead Architect on Enterprise Data Lakes & Lakehouse and built Data mesh Architectures to support domain ownership and seamless connectivity across campus. 
 - Developed a high-throughput multi-tenant streaming platform processing an average of ~5M events/day.
