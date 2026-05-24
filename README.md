@@ -4,10 +4,10 @@
 ### Data & AI Platform Architect & Engineering Leader
 
 I build governed data and AI platforms — lakehouse architecture, RAG and LLM
-systems, and responsible-AI workflows. 12+ years architecting the data
+systems, and responsible-AI workflows. 15+ years architecting the data
 infrastructure behind teaching, advising, and research at UC Berkeley.
 
-*Open to senior data & AI architecture/engineer and leadership roles.*
+*Open to senior data & AI architecture/engineer/data science and leadership roles.*
 
 ---
 
